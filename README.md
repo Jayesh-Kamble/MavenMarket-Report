@@ -1,4 +1,4 @@
-# 🛒 Maven Market Report - Power BI Dashboard
+# 🛒 Maven Market Report - Power BI  Dashboard
 
 A comprehensive Power BI dashboard for analyzing **sales performance** and **customer insights** at Maven Market.
 
@@ -37,7 +37,7 @@ A comprehensive Power BI dashboard for analyzing **sales performance** and **cus
 
 ## 📁 Project Files
 
-- `MavenMarket_Report.pbix` → Power BI file containing all visualizations and insights
+- `MavenMarket_Report.pbix` → Power BI file containing all visualizations and  insights
 
 ---
 
@@ -66,4 +66,5 @@ Feel free to:
 
 ---
 
-> *"Without data, you're just another person with an opinion."* – W. Edwards Deming
+> *"Without data, you're just another person with an opinion."*
+– W. Edwards Deming
