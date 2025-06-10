@@ -83,7 +83,7 @@ This dashboard addresses critical business questions:
 ### **Installation Steps**
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/[username]/maven-market-powerbi-dashboard.git
+   git clone https://github.com/Jayesh-Kamble/maven-market-powerbi-dashboard.git
    ```
 
 2. **Open Dashboard**
@@ -165,13 +165,6 @@ We welcome contributions to enhance this dashboard's functionality and insights:
 - **Discussions**: Join project discussions for questions and ideas
 - **Documentation**: Refer to the user guide in the documentation folder
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
 
 ## 🏆 Acknowledgments
 
