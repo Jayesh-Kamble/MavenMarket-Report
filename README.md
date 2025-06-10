@@ -2,7 +2,7 @@
 
 A comprehensive Power BI dashboard delivering **actionable insights** into sales performance, customer behavior, and market trends for Maven Market's strategic decision-making.
 
-![Dashboard Screenshot](https://github.com/ Objectives
+![Dashboard Screenshot](https://github.com/user-attachments/assets/19c91876-7904-4816-b82d-6db219cb6e07)
 
 This dashboard addresses critical business questions:
 - **Revenue Performance**: Which products, regions, and channels drive the highest revenue?
@@ -158,8 +158,7 @@ We welcome contributions to enhance this dashboard's functionality and insights:
 
 **Project Maintainer**: Jayesh Kamble  
 🔗 **LinkedIn**: [linkedin.com/in/jayesh-kamble-](https://www.linkedin.com/in/jayesh-kamble-/)  
-📧 **Email**: [your-email@domain.com]  
-💼 **Portfolio**: [your-portfolio-website.com]
+
 
 ### **Getting Help**
 - **Issues**: Report bugs or request features via GitHub Issues
